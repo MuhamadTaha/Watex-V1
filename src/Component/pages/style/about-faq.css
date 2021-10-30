@@ -1,0 +1,166 @@
+#about-us header {
+    background-image: url('https://i.ibb.co/db3JR1J/about-low.jpg');
+}
+
+#about-us>.container {
+    padding: 70px 0 0;
+}
+
+#about-us .about-left {
+    vertical-align: middle;
+}
+
+#about-us .about-right {
+    margin-top: -150px;
+    background-color: #fff;
+    padding: 50px 150px 100px 30px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: -10px 3px 40px #87878747;
+    overflow: hidden;
+}
+
+#about-us .about-right::after {
+    content: '';
+    background-color: #1d376c;
+    width: 230px;
+    height: 230px;
+    position: absolute;
+    z-index: 5;
+    top: -100px;
+    right: 0;
+    opacity: 0.2;
+    transform: rotate(42deg);
+    border-radius: 15px;
+}
+
+#about-us .about-right h4, #about-us .about-left h4 {
+    color: #1d376c;
+    font-weight: bold;
+    margin: 0 20px 20px 0;
+}
+
+#about-us .about-right p {
+    color: #727272;
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+#about-us .about-right img {
+    position: absolute;
+    right: 30px;
+    bottom: 10px;
+    width: 100px;
+}
+
+#about-us .chief-board .row {
+    margin-bottom: 50px;
+}
+
+#about-us .chief-board {
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 70px;
+}
+
+#about-us .chief-board h2 {
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    font-size: 80px;
+    font-weight: bold;
+    color: rgba(20, 20, 20, 0.15);
+    margin-bottom: -20px !important;
+}
+
+#about-us .chief-board h3 {
+    color: #1d376c;
+    font-weight: bold;
+    margin: 100px 0 40px 0;
+}
+
+#about-us .chief-board .img-cont {
+    width: 300px;
+    height: 300px;
+}
+
+#about-us .chief-board .row>.col-md-6:nth-of-type(1) .img-cont {
+    background-image: url('https://i.ibb.co/kqGcy7d/chief-board-1-4.png');
+    background-position: 40% 20%;
+}
+
+#about-us .chief-board .row>.col-md-6:nth-of-type(2) .img-cont {
+    background-image: url('https://i.ibb.co/zsSGQxM/chief-board-2.jpg');
+    background-position: 80% 50%;
+}
+
+#about-us .chief-board .row>.col-md-6:nth-of-type(3) .img-cont {
+    background-image: url('https://i.ibb.co/Kr2LThF/chief-board-3.jpg');
+    background-position: 80% 0%;
+}
+
+#about-us .chief-board .row>.col-md-6:nth-of-type(4) .img-cont {
+    background-image: url('https://i.ibb.co/kqGcy7d/chief-board-1-4.png');
+    background-position: 40% 20%;
+}
+
+#about-us .chief-board .desc-cont {
+    padding: 20px;
+    color: #1d376c;
+}
+
+#about-us .chief-board .desc-cont h4 {
+    font-weight: bold;
+}
+
+#about-us .chief-board .desc-cont h5 {
+    font-weight: 400;
+    margin-bottom: 30px ;
+}
+
+#about-us .chief-board .desc-cont p {
+    font-size: 14px;
+}
+
+#about-us .learnMoreBtn {
+    padding: 5px 40px 5px 10px !important;
+}
+
+/**/
+
+#faq header {
+    background-image: url('https://i.ibb.co/Vq1YKbh/faq-low.jpg');
+    background-position: 0 -160px ;
+}
+
+#faq>.container {
+    padding: 70px 0;
+}
+
+#faq .card {
+    border: none !important;
+}
+
+#faq .card-header {
+    background-color: #1D376C !important;
+    margin: 10px 0 !important;
+}
+
+#faq .card-header button {
+    color: #fff;
+    outline: none !important;
+    border: none !important;
+}
+
+#faq .card-header button:hover, #faq .card-header button:focus, #faq .card-header button:checked, #faq .card-header button:active {
+    color: #fff;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    text-decoration: none !important;
+}
+
+#faq .card-body {
+    background-color: #f5f5f5 !important;
+    padding: 0.8rem !important;
+}

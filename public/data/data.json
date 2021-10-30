@@ -1,0 +1,170 @@
+{
+    "products": [
+        {
+            "product_id": "1",
+            "product_date": "11 of Nov 2019",
+            "product_name": "prod1",
+            "product_title": "Product Title",
+            "product_image": "/static/media/prod1.2ba73b67.jpg",
+            "product_description": ""
+        },
+        {
+            "product_id": "2",
+            "product_date": "11 of Nov 2019",
+            "product_name": "prod2",
+            "product_title": "Product Title",
+            "product_image": "/static/media/prod2.5116e21f.jpg",
+            "product_description": ""
+        },
+        {
+            "product_id": "3",
+            "product_date": "11 of Nov 2019",
+            "product_name": "prod3",
+            "product_title": "Product Title",
+            "product_image": "/static/media/prod3.12b231f5.jpg",
+            "product_description": ""
+        },
+        {
+            "product_id": "4",
+            "product_date": "11 of Nov 2019",
+            "product_name": "prod4",
+            "product_title": "Product Title",
+            "product_image": "/static/media/prod4.379eb18e.jpg",
+            "product_description": ""
+        },
+        {
+            "product_id": "5",
+            "product_date": "11 of Nov 2019",
+            "product_name": "prod5",
+            "product_title": "Product Title",
+            "product_image": "/static/media/prod1.2ba73b67.jpg",
+            "product_description": ""
+        },
+        {
+            "product_id": "6",
+            "product_date": "11 of Nov 2019",
+            "product_name": "prod6",
+            "product_title": "Product Title",
+            "product_image": "/static/media/prod2.5116e21f.jpg",
+            "product_description": ""
+        },
+        {
+            "product_id": "7",
+            "product_date": "11 of Nov 2019",
+            "product_name": "prod7",
+            "product_title": "Product Title",
+            "product_image": "/static/media/prod3.12b231f5.jpg",
+            "product_description": ""
+        },
+        {
+            "product_id": "8",
+            "product_date": "11 of Nov 2019",
+            "product_name": "prod8",
+            "product_title": "Product Title",
+            "product_image": "/static/media/prod4.379eb18e.jpg",
+            "product_description": ""
+        }
+    ],
+    "news": [
+        {
+            "news_id": "1",
+            "news_name": "news1",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "/static/media/news1.804092e0.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        },
+        {
+            "news_id": "2",
+            "news_name": "news2",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "/static/media/news2.236baa6c.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        },
+        {
+            "news_id": "3",
+            "news_name": "news3",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "/static/media/news3.7db04fed.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        },
+        {
+            "news_id": "4",
+            "news_name": "news4",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "/static/media/news1.804092e0.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        }
+    ],
+    "events": [
+        {
+            "event_id": "1",
+            "event_name": "event1",
+            "event_title": "Event Title",
+            "event_date": "11 OF NOV 2019",
+            "event_image": "/static/media/event1.64c485d5.jpg",
+            "event_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis optio quam tempora, vitae illo nostrum. Aperiam voluptas molestiae mollitia eligendi!"
+        },
+        {
+            "event_id": "2",
+            "event_name": "event2",
+            "event_title": "Event Title",
+            "event_date": "11 OF NOV 2019",
+            "event_image": "/static/media/event2.0af64958.jpg",
+            "event_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis optio quam tempora, vitae illo nostrum. Aperiam voluptas molestiae mollitia eligendi!"
+        },
+        {
+            "event_id": "3",
+            "event_name": "event3",
+            "event_title": "Event Title",
+            "event_date": "11 OF NOV 2019",
+            "event_image": "/static/media/event3.4616cc2e.jpg",
+            "event_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis optio quam tempora, vitae illo nostrum. Aperiam voluptas molestiae mollitia eligendi!"
+        },
+        {
+            "event_id": "4",
+            "event_name": "event4",
+            "event_title": "Event Title",
+            "event_date": "11 OF NOV 2019",
+            "event_image": "www",
+            "event_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facilis optio quam tempora, vitae illo nostrum. Aperiam voluptas molestiae mollitia eligendi!"
+        }
+    ],
+    "brands": [
+        {
+            "brand_id": "1",
+            "brand_name": "brandRaktherm",
+            "brand_title": "Raktherm",
+            "brand_background": "/static/media/sec1.07d97485.jpg",
+            "brand_logo": "data:image/png;base64,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",
+            "brand_description": ""
+        },
+        {
+            "brand_id": "2",
+            "brand_name": "brandHozza",
+            "brand_title": "Hozza",
+            "brand_background": "/static/media/sec2.5d319f58.jpg",
+            "brand_logo": "data:image/png;base64,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",
+            "brand_description": ""
+        },
+        {
+            "brand_id": "3",
+            "brand_name": "brandWhitex",
+            "brand_title": "Whitex",
+            "brand_background": "/static/media/sec3.ce20df3d.jpg",
+            "brand_logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKgAAAAkCAYAAAAdOXEXAAAABHNCSVQICAgIfAhkiAAACHFJREFUeF7tXL1vHUUQn9ndVyIcIdGSSEhQAHH+gtiiRiQNHYpT8xGnpsCR6ImB1DgSFQ2OFFES8xfkBUoKnB4JW0JC6O3eoLm393K3t5/n54/Yd+V7e7Nzu7+dr50ZBADQWt8CgBsIcCCk3EbEKf9e+lg6GwBwIIm2cTLZK6XB40nrGwbgTowOEV2uquoWVNWKAHg0dK6GPyJarXgdhDgQQjxExH0f75a3TxDxsRDiASLqBQ3LNwKsDfnuyDv7gLgjpbznjmF+KqLrhLi6rDmRaEqIU6XUQx9NY8wdIrpR74+Ud0NrVcpPgx8E2BdS3mO6aGazLUD8skWMQXoFEQ9KJtBabyDA9w6da6XM1wsO8FN7biEl01kcmhqcxjwFgJVmnAC4iUrtlvC8ANZstlYhPknxbmazrwDxi8V7AD9LKT9AxIr6NIawEn+HaFtOJpvNIM/eLXvOHanU7TZRM5vdB0QWHs3DeCneZ5dRozVjh4Xb/CGaCqXWGaBPwT19iHellPdLvlbPZnuIeL3zDtE9OZlsLZuOb2OI6Fc1mQySXFrrXQT4MMY7Eb1WGfOX+y2C6H2cTH45AbDUU0ulcAFQralkbYeMtcKq1iZEtFIZ83ePDtFUTibXhtDnd4wxm0D0dW9tWegY30cOAJaPDgE8UkqxKsh+jNZ/AsDl9gsu+LyHgdWNUpeyJ2oNNFqztng1NicRvVMZ83uPPuKnUsoHJwXQBjBWi/BaHevT1l5BgM7R25HuuUzVptVcG/aeWiseK0AHSDUv0B06AYB2pEvuAtUn2HNI3UNBRFcrY/q2OeKmlHLbAob/7wC9hI/U2DZPJ2RSPJOTSce2Da09815qZlnAMzg7Asmuw6GQ8vII0CUB1KrAVWPMlnWSlgpUBqdU6kbjGxwzQA8BYFdIueX6EImDWGSPaq2fhBxKAritlNoZAbpEgGZIQHbu/FK20O4PAXSIWZXi2/3f58guxjTOTcLJTphED6VStcM0AvQEAcoLHlKRgmi9JFQWlKAD/IdSgNZmUd+bb5Ppef8d+z4W8SB6JpRaazTFCNARoEPwWb9jZrMpIF71EWhUdE/6ziMB7NwtQoStMWx3MjgXtv4I0BGggwFqnRwOQfnsbbZH191Lnxy7s83QCNB8gL5bGfNbbzcRP5dSfpu7y+dFxTffG3XWHHs0FO+0tBZ25whQB03LCDNdVIBaVe/eRvbs0Vi8Exy7cwToCNDc85Q9LhYfBYAdzvWI2J2roSvxUcXnq/hooD53J8+bil+o+rnzE7JHg8uTCu6PAD1nACWA3SbDiIPqAPCGg47npQk8uYcvqsa9rn76evRcAZQ3pzRVkBcV5+qn85RedeZu4rFL0FxG5uMOAPG+L42vjMyL0QlH6MVAot41qm/OcwXQoYvqP9zd7KjUXXzu3GcMoDXboZhl7je547zZYd1B83v2jJTOEaCBXfBI0JcjzDQEVQMzkUJTZeQJeENKowQt2LwCgN6RUn6TS/osStChqXKhb85IPeSMeU5yTibFjxL06BL0ZQcoq9tgmCf34DXjMqRnMzR6X98MGgGaD9D3KmOe9YYjnjWAHgJRVjUEIe5LKdmxTEqyHKD6SnFi7+XYvucKoBxTA6KyxUZccWugasfBSZKOOEkX+qqzDUBv+VAc2d77+vYrfoACZBuxDbGc68KcU5hD54xl1I8ATaffPffEY+dwSOSPMkCT9TjLAtZQOq4Rf0oA9dfOXPBkkRpjnkrcxV7be/aqqjZ8hXH1+wC7SqmbXi8+sNn7UqkrOYCqJwgnoJbRCRVQOUm4I0Aja35CCcsLp8hTAt7CTccBi8ZHAxUFLEH5Ip8bN3SekgzvWFjBrWmPgT5Ex72vPWMA/UxK+V3uYT72MNMJAzRmd7r7ZvNHORnZvX6tl8+HFfQ0XJibBgB7Sqn11MInKvP49Sx71tLxZloLKS+1Pc0RoGdDgkbLPgLB/8R9fS8+itFaZ4BkrKrXEcKD6FQ4oeZB6ye9BhLzg9KrrT8lgIaymS6kBE3ZnW65csfbDzRq8NmjdZeKkJpvXvD137ExL26Z86JdSUzcIm4JIbjvUycMZO1Xbnviq40Gn6kxAvR0JWgi3pkV+M+1R2uAZjUdIGLbYY+baxHR2sAGWQcEMLXNqTiLiEHpBably9vO5pQAGgrU151FUqZQ8/8J2KBTEGJHCDGoAVzrO7xpeTFtV9uRmdWpufboos9PVGTnrv5yxwVP4gjQaORkabvgM80SdmdRLy5rj3IHRF/RXR0BWgCUvyrkMBV9MdEzQGSpeJTOGr3y0zYPpwTQUDbT2ZKgRZuVHuw6qEZrbh7WKxke2rwthrlaGrssWknKoadygNkQB5sMbNf2ut2l14PtDS7c34glHntPcWYCrI+FQH13J/pARG9WxvzRWy+Aj5VSP+R8WszeLwnHNXN5+2rlMpI5rq2yIw71c5twUnbNbHkI+UAswXsAtbYf15dwwkEvPur7Lts3aNMFlY1rcj/LHLDXSQ5Cqfup5IXAqcsKZ3kB6okFu+qNiERlDG/AKy0a/wkp3y4poQiYUodSKV8jgyiMjNZcA+SNKWbiLzWsl1jsO8xDDld7YmvX7jlNIOYmXoxDftEYw+UQ3H252z8TYN5gimgn1rKlnryqNqiquPFVt3+opcEx19Ksmo4XOJe6TN/bFTm1C+4ChfobkdY3K4AfAUABwL8C4CNU6nGKvvu/UxZxKAA2hjTftREQbtqbIwBK2fTyVWOC+6nO95IlJ6/7UR2yuveoMWbH4uyQADbr5mGlXNc1PEdgiBlhz/0oNBqemRfQeqWkp1HiQNatBmO8EdFbAPA6ADxFxH9K16/F+wpovQpKTVMaIzUHAzU1pvT/Za1p6bzu+P8BJVGg+lO1WTwAAAAASUVORK5CYII=",
+            "brand_description": ""
+        },
+        {
+            "brand_id": "4",
+            "brand_name": "brandWatex",
+            "brand_title": "Watex",
+            "brand_background": "/static/media/sec4.3149b580.jpg",
+            "brand_logo": "data:image/png;base64,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",
+            "brand_description": ""
+        }
+    ]
+}

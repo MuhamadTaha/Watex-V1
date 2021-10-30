@@ -1,0 +1,428 @@
+.homeSections>.container {
+    overflow: hidden;
+}
+
+/* --------------------
+start of Brands Section
+-------------------- */
+
+.homeSec-Brands>.container>.row>.col-sm-3 {
+    position: relative;
+    padding: 98px 1%;
+}
+
+.homeSec-Brands .col-sm-3 .layers {
+    width: 92%;
+    position: absolute;
+    top: 0;
+    left: 4%;
+}
+
+.homeSec-Brands .col-sm-3 .layers .imageLayer {
+    width: 100%;
+    z-index: 2;
+}
+
+.homeSec-Brands .col-sm-3 .layers .blackLayer {
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 3;
+}
+
+.homeSec-Brands .col-sm-3 .card {
+    z-index: 4;
+    background: none;
+    border: none;
+}
+
+.homeSec-Brands .col-sm-3 .card .card-title {
+    margin: auto !important;
+    text-align: center !important;
+}
+
+.homeSec-Brands .col-sm-3 .card .card-title img {
+    width: 50%;
+    margin: auto !important;
+    text-align: center !important;
+}
+
+/* ------------------
+start of Products Section
+------------------ */
+
+.homeSec-Products {
+    background-color: #f5f5f5;
+}
+
+.homeSec-Products>.container>.row>.col-sm-3 {
+    padding: 0 1%;
+}
+
+.homeSec-Products .col-sm-3 .layers {
+    width: 90%;
+    margin: auto;
+}
+
+.homeSec-Products .col-sm-3 .layers .imageLayer {
+    width: 100%;
+    z-index: 2;
+    text-align: center;
+}
+
+.homeSec-Products .col-sm-3 .card {
+    z-index: 4;
+    background: none;
+    border: none;
+}
+
+.homeSec-Products .col-sm-3 .card .card-title {
+    color: #012D74;
+    text-align: center;
+}
+
+/* -----------------------------
+start of Video & Success Section
+----------------------------- */
+
+.homeSec-Success .col-md-6>h4 {
+    color: #012D74;
+    text-align: left;
+    font-weight: bold;
+    padding: 60px 0 15px;
+    text-transform: uppercase;
+}
+
+.homeSec-Success .viewAll {
+    color: #012D74;
+    text-align: left;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.video-react {
+    min-height: 360px;
+}
+
+/*------------------------------ vertical bootstrap slider----------------------------*/
+
+.homeSec-Success .carousel-inner>.carousel-item.carousel-item-next, .homeSec-Success .carousel-inner>.carousel-item.active.carousel-item-right {
+    transform: translate3d(0, 100%, 0);
+    -webkit-transform: translate3d(0, 100%, 0);
+    -ms-transform: translate3d(0, 100%, 0);
+    -moz-transform: translate3d(0, 100%, 0);
+    -o-transform: translate3d(0, 100%, 0);
+}
+
+.homeSec-Success .carousel-inner>.carousel-item.carousel-item-prev, .homeSec-Success .carousel-inner>.carousel-item.active.carousel-item-left {
+    transform: translate3d(0%, -100%, 0);
+    -webkit-transform: translate3d(0, -100%, 0);
+    -moz-transform: translate3d(0, -100%, 0);
+    -ms-transform: translate3d(0, -100%, 0);
+    -o-transform: translate3d(0, -100%, 0);
+}
+
+.homeSec-Success .carousel-inner>.carousel-item.next.carousel-item-left, .homeSec-Success .carousel-inner>.carousel-item.prev.carousel-item-right, .homeSec-Success .carousel-inner>.carousel-item.carousel-item-next.carousel-item-left, .homeSec-Success .carousel-inner>.carousel-item.carousel-item-prev.carousel-item-right, .homeSec-Success .carousel-inner>.carousel-item.active {
+    transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+}
+
+/*------------------------------- vertical carousel indicators ------------------------------*/
+
+.homeSec-Success .carousel-indicators {
+    position: absolute;
+    top: 0;
+    left: auto;
+    margin: auto;
+    height: 10px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.homeSec-Success .carousel-indicators li {
+    display: block;
+    margin-bottom: 5px;
+    border: 1px solid #012D74;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.homeSec-Success .carousel-indicators li.active {
+    background: #012D74;
+}
+
+.homeSec-Success .carousel-caption {
+    background: linear-gradient(90deg, #000, transparent);
+    width: 100%;
+    text-align: left !important;
+    top: 0 !important;
+    left: 0 !important;
+    height: 100%;
+    padding: 0 0 0 20px;
+}
+
+.homeSec-Success .carousel-caption-container {
+    height: max-content;
+    width: 80%;
+    margin-top: 40%;
+}
+
+.homeSec-Success .carousel-caption p {
+    font-weight: 100;
+    font-size: 15px;
+}
+
+/* -----------------------------
+start of Latest Products Section
+----------------------------- */
+
+.homeSec-LatestProd {
+    padding: 100px 0 50px;
+}
+
+.homeSec-LatestProd .col-md-9 .latest-prod, .homeSec-LatestProd .col-md-3 .latest-prod {
+    background-image: url('../../../Images/prod3.jpg');
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    height: 400px;
+}
+
+.homeSec-LatestProd .col-md-9 .latest-prod .blackLayer, .homeSec-LatestProd .col-md-3 .latest-prod .blackLayer {
+    background: linear-gradient(90deg, transparent, #000);
+    width: 100%;
+    text-align: left !important;
+    top: 0 !important;
+    left: 0 !important;
+    height: 100%;
+}
+
+.homeSec-LatestProd .col-md-3 .latest-prod {
+    background-image: url('../../../Images/prod2.jpg');
+}
+
+.homeSec-LatestProd .col-md-9 .latest-prod-desc {
+    width: 22%;
+    color: #f5f5f5;
+    top: 50%;
+    right: 50px;
+    transform: translateY(-50%);
+    position: absolute;
+    text-transform: uppercase;
+}
+
+.homeSec-LatestProd .col-md-9 .latest-prod-desc p {
+    margin: 0;
+}
+
+.homeSec-LatestProd .col-md-3 .latest-prod .blackLayer {
+    background: linear-gradient(90deg, #000, transparent);
+}
+
+.homeSec-LatestProd .col-md-3 .latest-prod-desc {
+    width: 80%;
+    color: #f5f5f5;
+    top: 70%;
+    left: 30px;
+    transform: translateY(-50%);
+    position: absolute;
+    text-transform: uppercase;
+}
+
+.homeSec-LatestProd .col-md-9 .latest-prod-desc p {
+    margin: 0;
+}
+
+.homeSec-LatestProd .learnMoreBtn {
+    margin-top: 10px;
+}
+
+/* ------------------
+start of XXXX Section
+------------------ */
+
+.homeSec-News>.container>.row>.col-sm-4 {
+    position: relative;
+    padding: 10px 1%;
+}
+
+.homeSec-News .col-sm-4 .layers {
+    width: 95%;
+    margin: auto;
+    position: relative;
+}
+
+.homeSec-News .col-sm-4 .layers .blackLayer {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.homeSec-News .col-sm-4 .card {
+    margin: -30px auto 0;
+    width: 88%;
+    background-color: #fff !important;
+    color: #012D74 !important;
+    border-radius: 0;
+    border: none;
+    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.2), -1px 0px 2px rgba(0, 0, 0, 0.2);
+}
+
+.homeSec-News .col-sm-4 .card h5 {
+    text-transform: capitalize;
+}
+
+.homeSec-News .col-sm-4 .card h6 {
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.homeSec-News .col-sm-4 .card p {
+    font-size: 14px;
+    color: #000;
+}
+
+.homeSec-News .col-sm-4 img {
+    max-height: 228px !important;
+}
+
+/* --------------------
+start of Events Section
+-------------------- */
+
+.homeSec-Events>.container>.row>.col-sm-4 {
+    position: relative;
+    padding: 10px 1%;
+}
+
+.homeSec-Events .col-sm-4 .layers {
+    width: 95%;
+    margin: auto;
+    position: relative;
+}
+
+.homeSec-Events .col-sm-4 .layers .blackLayer {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.homeSec-Events .col-sm-4 .card {
+    margin: 0 auto;
+    width: 100%;
+    background-color: transparent !important;
+    color: #fff !important;
+    border-radius: 0;
+    border: none;
+    position: absolute;
+    top: 70%;
+    transform: translateY(-50%);
+}
+
+.homeSec-Events .col-sm-4 .card h6 {
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.homeSec-Events .col-sm-4 .card p {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+
+.homeSec-Events .col-sm-4 .card .whiteLine {
+    display: block;
+    height: 4px;
+    background-color: #fff;
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+/* -------------------------------
+start of Featured Products Section
+------------------------------- */
+
+.slick-slider {
+    height: max-content !important;
+    padding: 0;
+}
+
+.slick-slider .slick-slide {
+    margin: 0 5px;
+}
+
+.slick-slider .slick-track {
+    width: max-content !important;
+}
+
+.slick-slider .card-wrapper .card {
+    border: none;
+    box-shadow: 1px 2px 2px #ccc, -1px 0px 2px #ccc;
+}
+
+.slick-slider .card-wrapper .card img {
+    width: 100%;
+    position: relative;
+}
+
+.slick-slider .card-wrapper .card .card-text {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 15px 10px;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.slick-slider .card-wrapper .card .card-text p {
+    font-weight: 100;
+    margin-bottom: 10px;
+    color: #ccc;
+}
+
+/* ---------------------
+start of Clients Section
+--------------------- */
+
+.homeSec-Client {
+    padding-bottom: 70px;
+}
+
+.client>div {
+    position: relative;
+    height: 150px;
+}
+
+.client img {
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    width: 80%;
+    opacity: 0.9;
+    left: 10%;
+}
+
+.client>div:nth-of-type(2) img, .client>div:nth-of-type(4) img {
+    width: 70% !important;
+    left: 15%;
+}
+
+.clientCont .row {
+    margin: auto;
+}

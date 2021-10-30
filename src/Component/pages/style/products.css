@@ -1,0 +1,8 @@
+#water-supply header, #drainage-solutions header, #others-solutions header {
+    background-image: url('https://i.ibb.co/Hn8WK61/soultions-head.jpg');
+    background-position: 0 40%;
+}
+
+#water-supply>.container, #drainage-solutions>.container, #others-solutions>.container {
+    padding: 70px 0;
+}

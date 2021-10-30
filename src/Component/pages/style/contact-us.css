@@ -1,0 +1,186 @@
+#contact-us header {
+    background-image: url('https://i.ibb.co/r5PF1dr/contact-us-head.jpg');
+    background-position: 50% 55%;
+    background-size: cover;
+}
+
+#contact-us>.container {
+    padding: 70px 0 0;
+}
+
+#contact-us .contact-right {
+    margin-top: -150px;
+    background-color: #fff;
+    padding: 50px 30px 100px 30px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: -10px 3px 40px #87878747;
+    overflow: hidden;
+}
+
+#contact-us .contact-right::after {
+    content: '';
+    background-color: #1d376c;
+    width: 230px;
+    height: 230px;
+    position: absolute;
+    z-index: 5;
+    top: -100px;
+    right: 0;
+    opacity: 0.2;
+    transform: rotate(42deg);
+    border-radius: 15px;
+}
+
+#contact-us .contact-right h4 {
+    color: #1d376c;
+    font-weight: bold;
+    margin: 0 20px 20px 0;
+}
+
+#contact-us .contact-right img {
+    position: absolute;
+    right: 30px;
+    bottom: 10px;
+    width: 100px;
+}
+
+#contact-us .branches {
+    padding: 80px 0;
+}
+
+#contact-us .branches .col-3 {
+    padding: 0 100px 0 0;
+}
+
+#contact-us .branches a {
+    color: #1d376c !important;
+    border-left: 8px solid transparent;
+}
+
+#contact-us .branches a.active {
+    background-color: #1d376c !important;
+    border-radius: 0 !important;
+    color: #fff !important;
+    border-left-color: #000;
+}
+
+#contact-us .contact-right form input, #contact-us .contact-right form textarea {
+    background-color: #f5f5f5;
+    font-size: 13px;
+    border-radius: 0;
+    border: none;
+}
+
+#contact-us .contact-right form input:active, #contact-us .contact-right form textarea:active, #contact-us .contact-right form input:focus, #contact-us .contact-right form textarea:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+#contact-us .contact-right form .btn-submit {
+    background-color: #1d376c;
+    width: 100%;
+    border-radius: 0;
+    color: #fff;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#contact-us .contact-right .contact-data-cont {
+    margin-top: auto;
+}
+
+#contact-us .contact-right .contact-data {
+    margin-bottom: 10px;
+}
+
+#contact-us .contact-right .contact-data>div {
+    display: inline-block !important;
+    width: 90% !important;
+}
+
+#contact-us .contact-right .contact-data svg {
+    color: #1d376c;
+    display: inline-block;
+    width: 10%;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
+#contact-us .contact-right .contact-data:first-of-type svg, #contact-us .contact-right .contact-data:last-of-type svg {
+    vertical-align: 13px;
+}
+
+#contact-us .contact-right .contact-data p {
+    color: #1d376c;
+    display: inline-block;
+    font-size: 13px;
+    padding: 0;
+    margin: 0;
+    width: 75% !important;
+}
+
+#contact-us .contact-right .contact-data>div p {
+    display: block;
+}
+
+#contact-us .maps-cont {
+    position: relative;
+}
+
+#contact-us .maps-cont span {
+    position: absolute;
+    top: 20px;
+    right: 0;
+    display: inline-block;
+    color: #fff;
+    background-color: #1d376c;
+    padding: 10px 50px 10px 20px;
+}
+
+.gm-style .place-card-large {
+    display: none !important;
+    opacity: 0;
+    visibility: hidden;
+}
+
+#contact-us .maps-cont iframe {
+    border: none;
+    width: 100% !important;
+    height: 300px;
+}
+
+#contact-us .branch-contact-cont {
+    padding-top: 60px;
+}
+
+#contact-us .branch-contact-cont h4 {
+    color: #1d376c;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#contact-us .branch-contact-cont .branch-contact {
+    margin-bottom: 10px;
+}
+
+#contact-us .branch-contact svg {
+    color: #1d376c;
+    display: inline-block;
+    width: 10%;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
+#contact-us .branch-contact:last-of-type svg {
+    vertical-align: 13px;
+}
+
+#contact-us .branch-contact p {
+    color: #1d376c;
+    display: inline-block;
+    font-size: 13px;
+    padding: 0;
+    margin: 0;
+    width: 75% !important;
+}

@@ -1,0 +1,68 @@
+{
+    "news": [
+        {
+            "news_id": "1",
+            "news_name": "news1",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "https://i.ibb.co/YkM9v6Q/news1.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        },
+        {
+            "news_id": "2",
+            "news_name": "news2",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "https://i.ibb.co/vVbqm0J/news2.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        },
+        {
+            "news_id": "3",
+            "news_name": "news3",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "https://i.ibb.co/47LKmNb/news3.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        },
+        {
+            "news_id": "4",
+            "news_name": "news4",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "https://i.ibb.co/YkM9v6Q/news1.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        },
+        {
+            "news_id": "5",
+            "news_name": "news5",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "https://i.ibb.co/vVbqm0J/news2.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        },
+        {
+            "news_id": "6",
+            "news_name": "news6",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "https://i.ibb.co/47LKmNb/news3.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        },
+        {
+            "news_id": "7",
+            "news_name": "news7",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "https://i.ibb.co/YkM9v6Q/news1.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        },
+        {
+            "news_id": "8",
+            "news_name": "news8",
+            "news_title": "Lorem ipsum dolor consectetur adipisicing elit",
+            "news_date": "BY MOHAMED | OCT, 29, 2019",
+            "news_image": "https://i.ibb.co/vVbqm0J/news2.jpg",
+            "news_description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, quae numquam voluptatibus sapiente molestias ex aliquid perferendis sequi sunt rerum ipsa"
+        }
+    ]
+}
